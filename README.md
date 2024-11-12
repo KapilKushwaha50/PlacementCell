@@ -1,1 +1,1 @@
-# PlacementCell
+The Placement Cell project is a web-based application built using XAMPP, PHP, JavaScript, CSS, and HTML. It is designed to streamline the placement process for educational institutions by managing student profiles, job postings, and company interactions efficiently. So if ou want to use it first import the databases files on xampp server!!!
